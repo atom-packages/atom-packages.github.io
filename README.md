@@ -1,3 +1,3 @@
-# package-control.github.io
+# website
 
 Coming soon
